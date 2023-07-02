@@ -1,2 +1,2 @@
-# vendorrisk.seedfi.com
-subdomain takeover 
+# track.savings7.creditkarma.com
+## subdomain takeover 
